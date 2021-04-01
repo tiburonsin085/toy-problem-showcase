@@ -8,8 +8,7 @@ class App extends Component {
     return(
       <section>
         <TopicBrowser/>
-        <FilterObject/>
-        <FilterString/>
+       
       </section>
       
     )
